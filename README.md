@@ -20,3 +20,9 @@ Since this is the readme file, let me give you some directions.
 5) Have you ever downloaded code or games from github?  If yes, please describe also long as it is classroom appropriate.
 
 FYI I will be showing/reading some student answers in class to demonstrate to everyone what I can see on github.
+ANSWERS:
+1. No, I had to save as in a different folder, then I had to upload that to github.
+2. It is important to track the changes so if there is a mistake, it can be found and fixed a lot easier.
+3. It is for you to read because you have access to the commits.
+4. Yes
+5. No
